@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Julianyson Barros de Assis</h1>
 <h3 align="center">Aficionado por tecnologia em geral, amante de python e dados.</h3>
 
-- 🌱 Atualmente cursando o terceiro semestre do curso **Python, SQL, Análise de dados.**
+- 🌱 Atualmente cursando o terceiro semestre do curso **Superior de Tecnologia em Arquitetura de Dados.**
 
 - 💬 Me pergunte sobre **Python, SQL, Análise de dados, Power BI, Data Frame, Data Warehouse, Data Lake**
 
